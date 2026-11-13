@@ -4,5 +4,5 @@ Week 7: JavaScript Best Practices - To-Do List Refactor
 https://ireenkathure.github.io/iyf-s12-week-07-ireenkathure/
 
 ## Collaboration
-My PR: coming soon
+My PR: https://github.com/ireenkathure/iyf-s12-week-07-ireenkathure/pull/1
 Partner PR: coming soon
