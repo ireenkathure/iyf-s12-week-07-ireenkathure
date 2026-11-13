@@ -1,5 +1,5 @@
 export function createTodo(text) {
-  return { id: Date.now(), text: text.trim(), completed: false };
+  return { id: Date.now()+Math.random(), text: text.trim(), completed: false };
 }
 export function addTodo(todos, text) {
   if (!text.trim()) return todos;
@@ -18,4 +18,4 @@ export function filterTodos(todos, filter) {
 }
 export function clearCompleted(todos) {
   return todos.filter((t) => !t.completed);
-}
+}ss
